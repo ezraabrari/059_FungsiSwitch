@@ -36,6 +36,7 @@ int main() {
 		cout << "2. pembagian " << endl;
 		cout << "3. Perkalian " << endl;
 		cout << "4. Pengurangan " << endl;
-
-		while ()
-	}
+		cout << "5. exit" << endl;
+		cout << "pilih pilihan 1/2/3/4/5" << endl;
+		cin >> pilihan;
+	} while (pilihan != 5);
